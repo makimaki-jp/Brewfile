@@ -1,0 +1,89 @@
+# tap repositories and their packages
+
+## caskroom/cask
+tap caskroom/cask
+install brew-cask
+cask install appcleaner
+cask install filezilla
+cask install firefox
+cask install flash
+cask install google-chrome
+cask install google-japanese-ime
+cask install intel-haxm
+cask install iterm2
+cask install java
+cask install karabiner
+cask install kdiff3
+cask install menumeters
+cask install openemu
+cask install opera-mail
+cask install opera
+cask install owncloud
+cask install skitch
+cask install skype
+cask install sourcetree
+cask install sublime-text
+cask install the-unarchiver
+cask install transmission
+cask install tuxguitar
+cask install vagrant
+cask install virtualbox
+cask install vlc
+cask install vmware-fusion
+cask install wireshark
+cask install xtrafinder
+cask install yorufukurou
+cask install zeroxed
+
+## rcmdnk/file
+tap rcmdnk/file
+install brew-file
+
+# Other Homebrew packages
+install android-sdk
+install ant
+install autoconf
+install automake
+install binutils
+install cmake
+install coreutils
+install ctags
+install curl
+install freetype
+install gdbm
+install gettext
+install git
+install go
+install imagemagick
+install intltool
+install ios-sim
+install jpeg
+install lame
+install libevent
+install libpng
+install libtool
+install lua
+install maven
+install mercurial
+install multitail
+install nmap
+install node
+install openssl
+install pcre
+install pkg-config
+install pyenv
+install pyenv-pip-rehash
+install pyenv-virtualenv
+install rbenv
+install rbenv-gem-rehash
+install rbenv-gemset
+install readline
+install reattach-to-user-namespace
+install ruby-build
+install scons
+install sqlite
+install tig
+install tmux
+install wget
+install xz
+install zsh
