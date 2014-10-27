@@ -5,7 +5,6 @@ tap caskroom/cask
 install brew-cask
 cask install appcleaner
 cask install filezilla
-cask install firefox
 cask install flash
 cask install google-chrome
 cask install google-japanese-ime
@@ -35,6 +34,15 @@ cask install xtrafinder
 cask install yorufukurou
 cask install zeroxed
 
+## caskroom/fonts
+tap caskroom/fonts
+cask install font-koruri
+
+## caskroom/versions
+tap caskroom/versions
+cask install firefox-ja
+cask install macvim-kaoriya
+
 ## rcmdnk/file
 tap rcmdnk/file
 install brew-file
@@ -63,6 +71,7 @@ install libevent
 install libpng
 install libtool
 install lua
+install luajit
 install maven
 install mercurial
 install multitail
