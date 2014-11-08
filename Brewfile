@@ -9,7 +9,6 @@ cask install flash
 cask install google-chrome
 cask install google-japanese-ime
 cask install intel-haxm
-cask install iterm2
 cask install java
 cask install karabiner
 cask install kdiff3
@@ -30,6 +29,7 @@ cask install virtualbox
 cask install vlc
 cask install vmware-fusion
 cask install wireshark
+cask install xquartz
 cask install xtrafinder
 cask install yorufukurou
 cask install zeroxed
@@ -41,7 +41,12 @@ cask install font-koruri
 ## caskroom/versions
 tap caskroom/versions
 cask install firefox-ja
+cask install iterm2-nightly
 cask install macvim-kaoriya
+
+## homebrew/versions
+tap homebrew/versions
+install subversion17 --unicode-path
 
 ## rcmdnk/file
 tap rcmdnk/file
@@ -75,6 +80,7 @@ install luajit
 install maven
 install mercurial
 install multitail
+install neon
 install nmap
 install node
 install openssl
