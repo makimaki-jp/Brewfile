@@ -1,3 +1,4 @@
+
 # tap repositories and their packages
 
 ## caskroom/cask
@@ -102,3 +103,16 @@ install tmux
 install wget
 install xz
 install zsh
+
+# App Store applications
+appstore ColorSnapper
+appstore Keynote
+appstore Logitech Camera Settings
+appstore menuFOREX
+appstore Numbers
+appstore Pages
+appstore popCalendar
+appstore Red Crucible 2
+appstore Voice
+appstore Xcode
+appstore Zen Pinball 2
