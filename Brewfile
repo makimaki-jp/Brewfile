@@ -7,6 +7,7 @@ install brew-cask
 cask install appcleaner
 cask install filezilla
 cask install flash
+cask install genymotion
 cask install google-chrome
 cask install google-japanese-ime
 cask install intel-haxm
