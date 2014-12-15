@@ -49,6 +49,7 @@ cask install macvim-kaoriya
 ## homebrew/versions
 tap homebrew/versions
 install subversion17 --unicode-path
+cask install firefox-ja
 
 ## rcmdnk/file
 tap rcmdnk/file
@@ -64,6 +65,7 @@ install cmake
 install coreutils
 install ctags
 install curl
+install enscript
 install freetype
 install gdbm
 install gettext
@@ -104,6 +106,9 @@ install tmux
 install wget
 install xz
 install zsh
+
+# Cask applications
+cask install --force
 
 # App Store applications
 appstore ColorSnapper
