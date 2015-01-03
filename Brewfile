@@ -26,6 +26,7 @@ cask install sublime-text
 cask install the-unarchiver
 cask install transmission
 cask install tuxguitar
+cask install unpkg
 cask install vagrant
 cask install virtualbox
 cask install vlc
@@ -34,7 +35,6 @@ cask install wireshark
 cask install xquartz
 cask install xtrafinder
 cask install yorufukurou
-cask install zeroxed
 
 ## caskroom/fonts
 tap caskroom/fonts
@@ -109,6 +109,7 @@ install zsh
 
 # Cask applications
 cask install --force
+cask install zeroxed
 
 # App Store applications
 appstore ColorSnapper
