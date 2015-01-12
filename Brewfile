@@ -60,12 +60,14 @@ install android-sdk
 install ant
 install autoconf
 install automake
+install bash
 install binutils
 install cmake
 install coreutils
 install ctags
 install curl
 install enscript
+install fish
 install freetype
 install gdbm
 install gettext
