@@ -4,6 +4,7 @@
 ## caskroom/cask
 tap caskroom/cask
 install brew-cask
+cask install 0xed
 cask install appcleaner
 cask install filezilla
 cask install flash
@@ -48,7 +49,6 @@ cask install macvim-kaoriya
 ## homebrew/versions
 tap homebrew/versions
 install subversion17 --unicode-path
-cask install firefox-ja
 
 ## rcmdnk/file
 tap rcmdnk/file
@@ -107,20 +107,3 @@ install tmux
 install wget
 install xz
 install zsh
-
-# Cask applications
-cask install --force
-cask install zeroxed
-
-# App Store applications
-appstore ColorSnapper
-appstore Keynote
-appstore Logitech Camera Settings
-appstore menuFOREX
-appstore Numbers
-appstore Pages
-appstore popCalendar
-appstore Red Crucible 2
-appstore Voice
-appstore Xcode
-appstore Zen Pinball 2
