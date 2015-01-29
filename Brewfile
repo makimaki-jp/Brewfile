@@ -34,7 +34,6 @@ cask install vmware-fusion
 cask install wireshark
 cask install xquartz
 cask install xtrafinder
-cask install yorufukurou
 
 ## caskroom/fonts
 tap caskroom/fonts
