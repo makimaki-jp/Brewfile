@@ -107,3 +107,8 @@ install tmux
 install wget
 install xz
 install zsh
+
+# App Store applications
+appstore Keynote
+appstore Numbers
+appstore Pages
