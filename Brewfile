@@ -46,6 +46,10 @@ cask install firefox-ja
 cask install iterm2-nightly
 cask install macvim-kaoriya
 
+## homebrew/boneyard
+tap homebrew/boneyard
+install pyenv-pip-rehash
+
 ## homebrew/versions
 tap homebrew/versions
 install subversion17 --unicode-path
@@ -92,7 +96,6 @@ install openssl
 install pcre
 install pkg-config
 install pyenv
-install pyenv-pip-rehash
 install pyenv-virtualenv
 install rbenv
 install rbenv-gem-rehash
@@ -109,6 +112,15 @@ install xz
 install zsh
 
 # App Store applications
+appstore ColorSnapper
 appstore Keynote
+appstore Logitech Camera Settings
+appstore menuFOREX
 appstore Numbers
 appstore Pages
+appstore popCalendar
+appstore Red Crucible 2
+appstore Voice
+appstore Wunderlist
+appstore Xcode
+appstore Zen Pinball 2
