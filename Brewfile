@@ -12,6 +12,7 @@ cask install genymotion
 cask install google-chrome
 cask install google-japanese-ime
 cask install intel-haxm
+cask install iterm2
 cask install java
 cask install karabiner
 cask install kdiff3
@@ -43,7 +44,6 @@ cask install font-koruri
 ## caskroom/versions
 tap caskroom/versions
 cask install firefox-ja
-cask install iterm2-nightly
 cask install macvim-kaoriya
 
 ## homebrew/boneyard
@@ -76,6 +76,8 @@ install gdbm
 install gettext
 install git
 install go
+install htop
+install pstree
 install icu4c
 install imagemagick
 install intltool
