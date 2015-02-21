@@ -76,8 +76,7 @@ install gdbm
 install gettext
 install git
 install go
-install htop
-install pstree
+install htop-osx
 install icu4c
 install imagemagick
 install intltool
@@ -98,6 +97,7 @@ install node
 install openssl
 install pcre
 install pkg-config
+install pstree
 install pyenv
 install pyenv-virtualenv
 install rbenv
@@ -115,14 +115,17 @@ install xz
 install zsh
 install zsh-syntax-highlighting
 
-# Cask applications
-cask install owncloud
-
 # App Store applications
+appstore ColorSnapper
 appstore Keynote
+appstore Logitech Camera Settings
 appstore menuFOREX
 appstore Numbers
 appstore Pages
 appstore popCalendar
+appstore Red Crucible 2
+appstore Voice
 appstore Wunderlist
 appstore Xcode
+appstore YoruFukurou
+appstore Zen Pinball 2
