@@ -111,6 +111,10 @@ install tmux
 install wget
 install xz
 install zsh
+install zsh-syntax-highlighting
+
+# Cask applications
+cask install owncloud
 
 # App Store applications
 appstore Keynote
