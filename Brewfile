@@ -12,6 +12,7 @@ cask install genymotion
 cask install google-chrome
 cask install google-japanese-ime
 cask install intel-haxm
+cask install intellij-idea
 cask install iterm2
 cask install java
 cask install karabiner
@@ -23,6 +24,7 @@ cask install opera
 cask install owncloud
 cask install skitch
 cask install skype
+cask install slack
 cask install sourcetree
 cask install sublime-text
 cask install the-unarchiver
@@ -44,6 +46,7 @@ cask install font-koruri
 ## caskroom/versions
 tap caskroom/versions
 cask install firefox-ja
+cask install java7
 cask install macvim-kaoriya
 
 ## homebrew/boneyard
@@ -60,6 +63,7 @@ install brew-file
 
 # Other Homebrew packages
 install android-sdk
+install ansible
 install ant
 install autoconf
 install automake
@@ -76,16 +80,19 @@ install gdbm
 install gettext
 install git
 install go
+install gradle
 install htop-osx
 install icu4c
 install imagemagick
 install intltool
 install ios-sim
+install jenv
 install jpeg
 install lame
 install libevent
 install libpng
 install libtool
+install libyaml
 install lua
 install luajit
 install maven
@@ -116,16 +123,10 @@ install zsh
 install zsh-syntax-highlighting
 
 # App Store applications
-appstore ColorSnapper
+appstore GarageBand
+appstore iMovie
+appstore iPhoto
 appstore Keynote
-appstore Logitech Camera Settings
-appstore menuFOREX
 appstore Numbers
 appstore Pages
-appstore popCalendar
-appstore Red Crucible 2
-appstore Voice
-appstore Wunderlist
 appstore Xcode
-appstore YoruFukurou
-appstore Zen Pinball 2
