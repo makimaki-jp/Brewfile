@@ -18,6 +18,7 @@ cask install java
 cask install karabiner
 cask install kdiff3
 cask install menumeters
+cask install mou
 cask install openemu
 cask install opera-mail
 cask install opera
