@@ -56,6 +56,7 @@ install pyenv-pip-rehash
 
 ## homebrew/versions
 tap homebrew/versions
+install ansible14
 install subversion17 --unicode-path
 
 ## rcmdnk/file
@@ -64,24 +65,27 @@ install brew-file
 
 # Other Homebrew packages
 install android-sdk
-install ansible
 install ant
 install autoconf
 install automake
+install awscli
 install bash
 install binutils
 install cmake
 install coreutils
 install ctags
 install curl
+install ec2-api-tools
 install enscript
 install fish
 install freetype
 install gdbm
 install gettext
 install git
+install gmp
 install go
 install gradle
+install groovy
 install htop-osx
 install icu4c
 install imagemagick
@@ -101,14 +105,16 @@ install mercurial
 install multitail
 install neon
 install nmap
-install node
+install nodebrew
 install openssl
+install pandoc
 install pcre
 install pkg-config
 install pstree
 install pyenv
 install pyenv-virtualenv
 install rbenv
+install rbenv-bundler
 install rbenv-gem-rehash
 install rbenv-gemset
 install readline
