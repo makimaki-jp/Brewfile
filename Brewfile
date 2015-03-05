@@ -75,6 +75,7 @@ install cmake
 install coreutils
 install ctags
 install curl
+install doxygen
 install ec2-api-tools
 install enscript
 install fish
@@ -113,6 +114,7 @@ install pkg-config
 install pstree
 install pyenv
 install pyenv-virtualenv
+install python
 install rbenv
 install rbenv-bundler
 install rbenv-gem-rehash
