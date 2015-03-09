@@ -106,7 +106,6 @@ install mercurial
 install multitail
 install neon
 install nmap
-install node
 install nodebrew
 install openssl
 install pandoc
