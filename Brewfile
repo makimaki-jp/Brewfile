@@ -23,6 +23,7 @@ cask install openemu
 cask install opera-mail
 cask install opera
 cask install owncloud
+cask install silverlight
 cask install skitch
 cask install skype
 cask install slack
