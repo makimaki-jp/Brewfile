@@ -133,10 +133,17 @@ install zsh
 install zsh-syntax-highlighting
 
 # App Store applications
-appstore GarageBand
-appstore iMovie
-appstore iPhoto
+appstore ColorSnapper
 appstore Keynote
+appstore LINE
+appstore Logitech Camera Settings
+appstore menuFOREX
 appstore Numbers
 appstore Pages
+appstore popCalendar
+appstore Red Crucible 2
+appstore Voice
+appstore Wunderlist
 appstore Xcode
+appstore YoruFukurou
+appstore Zen Pinball 2
