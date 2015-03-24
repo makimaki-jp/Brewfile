@@ -6,6 +6,7 @@ tap caskroom/cask
 install brew-cask
 cask install 0xed
 cask install appcleaner
+cask install atom
 cask install filezilla
 cask install flash
 cask install genymotion
@@ -23,6 +24,7 @@ cask install openemu
 cask install opera-mail
 cask install opera
 cask install owncloud
+cask install pgweb
 cask install silverlight
 cask install skitch
 cask install skype
@@ -58,6 +60,7 @@ install pyenv-pip-rehash
 ## homebrew/versions
 tap homebrew/versions
 install ansible14
+install postgresql92
 install subversion17 --unicode-path
 
 ## rcmdnk/file
@@ -95,6 +98,7 @@ install intltool
 install ios-sim
 install jenv
 install jpeg
+install jq
 install lame
 install libevent
 install libpng
@@ -110,12 +114,14 @@ install nmap
 install node
 install nodebrew
 install openssl
+install ossp-uuid
 install pandoc
 install pcre
 install pkg-config
 install pstree
 install pyenv
 install pyenv-virtualenv
+install pyenv-virtualenvwrapper
 install python
 install rbenv
 install rbenv-bundler
@@ -131,20 +137,14 @@ install tmux
 install wget
 install xz
 install zsh
+install zsh-completions
 install zsh-syntax-highlighting
 
 # App Store applications
-appstore ColorSnapper
+appstore GarageBand
+appstore iMovie
+appstore iPhoto
 appstore Keynote
-appstore LINE
-appstore Logitech Camera Settings
-appstore menuFOREX
 appstore Numbers
 appstore Pages
-appstore popCalendar
-appstore Red Crucible 2
-appstore Voice
-appstore Wunderlist
 appstore Xcode
-appstore YoruFukurou
-appstore Zen Pinball 2
