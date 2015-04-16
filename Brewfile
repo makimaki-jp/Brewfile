@@ -76,6 +76,7 @@ install awscli
 install bash
 install binutils
 install cmake
+install colordiff
 install coreutils
 install ctags
 install curl
