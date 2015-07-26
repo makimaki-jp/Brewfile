@@ -3,149 +3,158 @@
 
 ## caskroom/cask
 tap caskroom/cask
-install brew-cask
-cask install 0xed
-cask install appcleaner
-cask install atom
-cask install filezilla
-cask install flash
-cask install genymotion
-cask install google-chrome
-cask install google-japanese-ime
-cask install intel-haxm
-cask install intellij-idea
-cask install iterm2
-cask install java
-cask install karabiner
-cask install kdiff3
-cask install menumeters
-cask install mou
-cask install openemu
-cask install opera-mail
-cask install opera
-cask install owncloud
-cask install pgweb
-cask install silverlight
-cask install skitch
-cask install skype
-cask install slack
-cask install sourcetree
-cask install sublime-text
-cask install the-unarchiver
-cask install transmission
-cask install tuxguitar
-cask install unpkg
-cask install vagrant
-cask install virtualbox
-cask install vlc
-cask install vmware-fusion
-cask install wireshark
-cask install xquartz
-cask install xtrafinder
+brew brew-cask
+cask 0xed
+cask appcleaner
+cask atom
+cask filezilla
+cask flash
+cask genymotion
+cask google-chrome
+cask google-japanese-ime
+cask intel-haxm
+cask intellij-idea
+cask iterm2
+cask java
+cask karabiner
+cask kdiff3
+cask menumeters
+cask mou
+cask openemu
+cask opera-mail
+cask opera
+cask owncloud
+cask pgweb
+cask silverlight
+cask skitch
+cask skype
+cask slack
+cask sourcetree
+cask sublime-text
+cask the-unarchiver
+cask transmission
+cask tuxguitar
+cask uninstallpkg
+cask unpkg
+cask vagrant
+cask virtualbox
+cask vlc
+cask vmware-fusion
+cask wireshark
+cask xquartz
+cask xtrafinder
 
 ## caskroom/fonts
 tap caskroom/fonts
-cask install font-koruri
+cask font-koruri
 
 ## caskroom/versions
 tap caskroom/versions
-cask install firefox-ja
-cask install java7
-cask install macvim-kaoriya
+cask firefox-ja
+cask java7
+cask macvim-kaoriya
 
 ## homebrew/boneyard
 tap homebrew/boneyard
-install pyenv-pip-rehash
+brew pyenv-pip-rehash
 
 ## homebrew/versions
 tap homebrew/versions
-install ansible14
-install postgresql92
-install subversion17 --unicode-path
+brew ansible14
+brew postgresql92
+brew subversion17 --unicode-path
 
 ## rcmdnk/file
 tap rcmdnk/file
-install brew-file
+brew brew-file
 
 # Other Homebrew packages
-install android-sdk
-install ant
-install autoconf
-install automake
-install awscli
-install bash
-install binutils
-install cmake
-install colordiff
-install coreutils
-install ctags
-install curl
-install doxygen
-install ec2-api-tools
-install enscript
-install fish
-install freetype
-install gdbm
-install gettext
-install git
-install gmp
-install go
-install gradle
-install groovy
-install htop-osx
-install icu4c
-install imagemagick
-install intltool
-install ios-sim
-install jenv
-install jpeg
-install jq
-install lame
-install libevent
-install libpng
-install libtool
-install libyaml
-install lua
-install luajit
-install maven
-install mercurial
-install multitail
-install neon
-install nmap
-install node
-install nodebrew
-install openssl
-install ossp-uuid
-install pandoc
-install pcre
-install pkg-config
-install pstree
-install pyenv
-install pyenv-virtualenv
-install pyenv-virtualenvwrapper
-install python
-install rbenv
-install rbenv-bundler
-install rbenv-gem-rehash
-install rbenv-gemset
-install readline
-install reattach-to-user-namespace
-install ruby-build
-install scons
-install sqlite
-install tig
-install tmux
-install wget
-install xz
-install zsh
-install zsh-completions
-install zsh-syntax-highlighting
+brew android-sdk
+brew ant
+brew autoconf
+brew automake
+brew awscli
+brew bash
+brew binutils
+brew cmake
+brew colordiff
+brew coreutils
+brew ctags
+brew curl
+brew doxygen
+brew ec2-api-tools
+brew enscript
+brew fish
+brew freetype
+brew gdbm
+brew gettext
+brew git
+brew gmp
+brew go
+brew gradle
+brew groovy
+brew htop-osx
+brew icu4c
+brew imagemagick
+brew intltool
+brew ios-sim
+brew jenv
+brew jpeg
+brew jq
+brew lame
+brew libevent
+brew libpng
+brew libtiff
+brew libtool
+brew libyaml
+brew lua
+brew luajit
+brew maven
+brew mercurial
+brew multitail
+brew neon
+brew nmap
+brew node
+brew nodebrew
+brew openssl
+brew ossp-uuid
+brew pandoc
+brew pcre
+brew pkg-config
+brew pstree
+brew pyenv
+brew pyenv-virtualenv
+brew pyenv-virtualenvwrapper
+brew python
+brew rbenv
+brew rbenv-bundler
+brew rbenv-gem-rehash
+brew rbenv-gemset
+brew readline
+brew reattach-to-user-namespace
+brew ruby-build
+brew scons
+brew sqlite
+brew tig
+brew tmux
+brew wget
+brew xz
+brew zsh
+brew zsh-completions
+brew zsh-syntax-highlighting
 
 # App Store applications
-appstore GarageBand
-appstore iMovie
-appstore iPhoto
+appstore ColorSnapper
 appstore Keynote
+appstore LINE
+appstore Logitech Camera Settings
+appstore menuFOREX
 appstore Numbers
 appstore Pages
+appstore popCalendar
+appstore Red Crucible 2
+appstore Voice
+appstore Wunderlist
 appstore Xcode
+appstore YoruFukurou
+appstore Zen Pinball 2
