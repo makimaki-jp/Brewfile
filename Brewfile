@@ -5,11 +5,15 @@
 tap caskroom/cask
 brew brew-cask
 cask 0xed
+cask animated-gif-quicklook
 cask appcleaner
 cask atom
+cask betterzipql
+cask epubquicklook
 cask filezilla
 cask flash
 cask genymotion
+cask github-desktop
 cask google-chrome
 cask google-japanese-ime
 cask intel-haxm
@@ -18,6 +22,7 @@ cask iterm2
 cask java
 cask karabiner
 cask kdiff3
+cask macdown
 cask menumeters
 cask mou
 cask openemu
@@ -25,12 +30,23 @@ cask opera-mail
 cask opera
 cask owncloud
 cask pgweb
+cask qlcolorcode
+cask qlgradle
+cask qlimagesize
+cask qlmarkdown
+cask qlprettypatch
+cask qlrest
+cask qlstephen
+cask qlvideo
+cask quicklook-csv
+cask quicklook-json
 cask silverlight
 cask skitch
 cask skype
 cask slack
 cask sourcetree
 cask sublime-text
+cask suspicious-package
 cask the-unarchiver
 cask transmission
 cask tuxguitar
@@ -76,11 +92,13 @@ brew automake
 brew awscli
 brew bash
 brew binutils
+brew boost
 brew cmake
 brew colordiff
 brew coreutils
 brew ctags
 brew curl
+brew direnv
 brew doxygen
 brew ec2-api-tools
 brew enscript
@@ -94,6 +112,7 @@ brew go
 brew gradle
 brew groovy
 brew htop-osx
+brew hub
 brew icu4c
 brew imagemagick
 brew intltool
@@ -102,6 +121,7 @@ brew jenv
 brew jpeg
 brew jq
 brew lame
+brew ldns
 brew libevent
 brew libpng
 brew libtiff
@@ -113,14 +133,17 @@ brew maven
 brew mercurial
 brew multitail
 brew neon
+brew nkf
 brew nmap
 brew node
 brew nodebrew
+brew oniguruma
 brew openssl
 brew ossp-uuid
 brew pandoc
 brew pcre
 brew pkg-config
+brew postgresql
 brew pstree
 brew pyenv
 brew pyenv-virtualenv
@@ -133,10 +156,14 @@ brew rbenv-gemset
 brew readline
 brew reattach-to-user-namespace
 brew ruby-build
+brew sbt
+brew scala
 brew scons
 brew sqlite
+brew thrift
 brew tig
 brew tmux
+brew typesafe-activator
 brew wget
 brew xz
 brew zsh
@@ -144,17 +171,11 @@ brew zsh-completions
 brew zsh-syntax-highlighting
 
 # App Store applications
-appstore ColorSnapper
+appstore GarageBand
+appstore iMovie
+appstore iPhoto
 appstore Keynote
-appstore LINE
-appstore Logitech Camera Settings
-appstore menuFOREX
+appstore Microsoft Remote Desktop
 appstore Numbers
 appstore Pages
-appstore popCalendar
-appstore Red Crucible 2
-appstore Voice
-appstore Wunderlist
 appstore Xcode
-appstore YoruFukurou
-appstore Zen Pinball 2
