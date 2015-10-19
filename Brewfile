@@ -69,10 +69,15 @@ tap caskroom/versions
 cask firefox-ja
 cask java7
 cask macvim-kaoriya
+cask vivaldi-snapshot
 
 ## homebrew/boneyard
 tap homebrew/boneyard
 brew pyenv-pip-rehash
+
+## homebrew/completions
+tap homebrew/completions
+brew docker-completion
 
 ## homebrew/versions
 tap homebrew/versions
@@ -98,6 +103,10 @@ brew coreutils
 brew ctags
 brew curl
 brew direnv
+brew docker
+brew docker-compose
+brew docker-machine
+brew dos2unix
 brew doxygen
 brew ec2-api-tools
 brew enscript
@@ -107,6 +116,7 @@ brew gdbm
 brew gettext
 brew git
 brew gmp
+brew gnu-sed
 brew go
 brew gradle
 brew groovy
@@ -164,6 +174,7 @@ brew tig
 brew tmux
 brew typesafe-activator
 brew wget
+brew xhyve
 brew xz
 brew zsh
 brew zsh-completions
