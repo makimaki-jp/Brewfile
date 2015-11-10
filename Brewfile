@@ -17,13 +17,11 @@ cask github-desktop
 cask google-chrome
 cask google-japanese-ime
 cask intel-haxm
-cask intellij-idea
 cask iterm2
 cask java
 cask karabiner
 cask kdiff3
 cask macdown
-cask menumeters
 cask mou
 cask openemu
 cask opera-mail
@@ -59,6 +57,7 @@ cask vmware-fusion
 cask wireshark
 cask xquartz
 cask xtrafinder
+cask yujitach-menumeters
 
 ## caskroom/fonts
 tap caskroom/fonts
@@ -67,6 +66,7 @@ cask font-koruri
 ## caskroom/versions
 tap caskroom/versions
 cask firefox-ja
+cask intellij-idea14
 cask java7
 cask macvim-kaoriya
 cask vivaldi-snapshot
