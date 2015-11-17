@@ -27,6 +27,7 @@ cask openemu
 cask opera-mail
 cask opera
 cask owncloud
+cask paintbrush
 cask pgweb
 cask qlcolorcode
 cask qlgradle
@@ -138,6 +139,7 @@ brew libtool
 brew libyaml
 brew lua
 brew luajit
+brew lzo
 brew maven
 brew mercurial
 brew multitail
@@ -151,9 +153,11 @@ brew openssl
 brew ossp-uuid
 brew pandoc
 brew pcre
+brew pigz
 brew pkg-config
 brew postgresql
 brew pstree
+brew pv
 brew pyenv
 brew pyenv-virtualenv
 brew pyenv-virtualenvwrapper
