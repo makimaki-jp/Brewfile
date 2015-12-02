@@ -173,6 +173,7 @@ brew thrift
 brew tig
 brew tmux
 brew typesafe-activator
+brew unar
 brew wget
 brew xhyve
 brew xz
@@ -181,11 +182,17 @@ brew zsh-completions
 brew zsh-syntax-highlighting
 
 # App Store applications
-appstore GarageBand
-appstore iMovie
-appstore iPhoto
+appstore ColorSnapper
 appstore Keynote
-appstore Microsoft Remote Desktop
+appstore LINE
+appstore Logitech Camera Settings
+appstore menuFOREX
 appstore Numbers
 appstore Pages
+appstore popCalendar
+appstore Red Crucible - Firestorm
+appstore Voice
+appstore Wunderlist
 appstore Xcode
+appstore YoruFukurou
+appstore Zen Pinball 2
