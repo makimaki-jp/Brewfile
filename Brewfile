@@ -9,6 +9,8 @@ cask animated-gif-quicklook
 cask appcleaner
 cask atom
 cask betterzipql
+cask dash
+cask dbvisualizer
 cask epubquicklook
 cask filezilla
 cask flash
@@ -17,6 +19,7 @@ cask github-desktop
 cask google-chrome
 cask google-japanese-ime
 cask intel-haxm
+cask intellij-idea
 cask iterm2
 cask java
 cask karabiner
@@ -76,9 +79,14 @@ cask vivaldi-snapshot
 tap homebrew/boneyard
 brew pyenv-pip-rehash
 
+## homebrew/completions
+tap homebrew/completions
+brew docker-completion
+
 ## homebrew/versions
 tap homebrew/versions
 brew ansible14
+brew postgresql92
 brew subversion17 --unicode-path
 
 ## rcmdnk/file
@@ -88,12 +96,15 @@ brew brew-file
 # Other Homebrew packages
 brew android-sdk
 brew ant
+brew apache-spark
 brew autoconf
 brew automake
 brew awscli
 brew bash
 brew binutils
 brew boost
+brew brew-gem
+brew brew-pip
 brew cmake
 brew colordiff
 brew coreutils
@@ -108,6 +119,7 @@ brew doxygen
 brew ec2-api-tools
 brew enscript
 brew fish
+brew flyway
 brew freetype
 brew gdbm
 brew gettext
@@ -118,6 +130,7 @@ brew go
 brew gradle
 brew groovy
 brew htop-osx
+brew httpie
 brew hub
 brew icu4c
 brew imagemagick
@@ -174,6 +187,7 @@ brew tig
 brew tmux
 brew typesafe-activator
 brew unar
+brew vimpager
 brew wget
 brew xhyve
 brew xz
@@ -182,17 +196,11 @@ brew zsh-completions
 brew zsh-syntax-highlighting
 
 # App Store applications
-appstore ColorSnapper
+appstore GarageBand
+appstore iMovie
+appstore iPhoto
 appstore Keynote
-appstore LINE
-appstore Logitech Camera Settings
-appstore menuFOREX
+appstore Microsoft Remote Desktop
 appstore Numbers
 appstore Pages
-appstore popCalendar
-appstore Red Crucible - Firestorm
-appstore Voice
-appstore Wunderlist
 appstore Xcode
-appstore YoruFukurou
-appstore Zen Pinball 2
