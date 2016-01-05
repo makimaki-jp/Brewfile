@@ -173,7 +173,6 @@ brew pyenv-virtualenvwrapper
 brew python
 brew rbenv
 brew rbenv-bundler
-brew rbenv-gem-rehash
 brew rbenv-gemset
 brew readline
 brew reattach-to-user-namespace
