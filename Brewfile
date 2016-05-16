@@ -83,8 +83,6 @@ brew docker-completion
 ## homebrew/versions
 tap homebrew/versions
 brew ansible14
-brew postgresql92
-brew subversion17 --unicode-path
 
 ## rcmdnk/file
 tap rcmdnk/file
