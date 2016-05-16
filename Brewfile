@@ -76,10 +76,6 @@ cask vivaldi-snapshot
 tap homebrew/boneyard
 brew pyenv-pip-rehash
 
-## homebrew/completions
-tap homebrew/completions
-brew docker-completion
-
 ## homebrew/versions
 tap homebrew/versions
 brew ansible14
