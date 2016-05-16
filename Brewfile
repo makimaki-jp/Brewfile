@@ -79,6 +79,7 @@ tap homebrew/boneyard
 brew pyenv-pip-rehash
 
 tap homebrew/core
+brew amazon-ecs-cli
 brew android-sdk
 brew ant
 brew apache-spark
@@ -97,6 +98,7 @@ brew ctags
 brew curl
 brew direnv
 brew docker-compose
+brew docker-machine-driver-xhyve
 brew docker-machine
 brew docker
 brew dos2unix
@@ -108,12 +110,14 @@ brew flyway
 brew freetype
 brew gdbm
 brew gettext
+brew git-lfs
 brew git
 brew gmp
 brew gnu-sed
 brew go
 brew gradle
 brew groovy
+brew highlight
 brew htop-osx
 brew httpie
 brew hub
@@ -165,7 +169,10 @@ brew ruby-build
 brew sbt
 brew scala
 brew scons
+brew sl
+brew socat
 brew sqlite
+brew subversion
 brew thrift
 brew tig
 brew tmux
@@ -184,11 +191,6 @@ brew ansible14
 
 tap rcmdnk/file
 brew brew-file
-
-# Below applications were installed by Cask,
-# but do not have corresponding casks.
-
-#cask Uninstalling brew-cask... (4 files, 7.9K)
 
 # App Store applications
 appstore 682658836 GarageBand
