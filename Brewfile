@@ -58,7 +58,6 @@ cask uninstallpkg
 cask unpkg
 cask vagrant
 cask virtualbox
-cask vivaldi
 cask vlc
 cask vmware-fusion
 cask wireshark
