@@ -1,7 +1,6 @@
 
 # tap repositories and their packages
 
-## caskroom/cask
 tap caskroom/cask
 brew brew-cask
 cask 0xed
@@ -64,28 +63,26 @@ cask xquartz
 cask xtrafinder
 cask yujitach-menumeters
 
-## caskroom/fonts
 tap caskroom/fonts
 cask font-koruri
 
-## caskroom/versions
 tap caskroom/versions
 cask firefox-ja
 cask java7
 cask macvim-kaoriya
 cask vivaldi-snapshot
 
-## homebrew/boneyard
 tap homebrew/boneyard
 brew pyenv-pip-rehash
 
-## homebrew/versions
 tap homebrew/versions
 brew ansible14
 
-## rcmdnk/file
 tap rcmdnk/file
 brew brew-file
+
+tap argon/mas
+brew mas
 
 # Other Homebrew packages
 brew android-sdk
