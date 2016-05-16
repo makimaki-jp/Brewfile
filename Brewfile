@@ -18,10 +18,12 @@ cask github-desktop
 cask google-chrome
 cask google-japanese-ime
 cask intel-haxm
+cask intellij-idea
 cask iterm2
 cask java
 cask karabiner
 cask kdiff3
+cask kindle
 cask macdown
 cask mou
 cask openemu
