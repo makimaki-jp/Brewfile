@@ -1,6 +1,9 @@
 
 # tap repositories and their packages
 
+tap argon/mas
+brew mas
+
 tap caskroom/cask
 brew brew-cask
 cask 0xed
@@ -75,16 +78,7 @@ cask vivaldi-snapshot
 tap homebrew/boneyard
 brew pyenv-pip-rehash
 
-tap homebrew/versions
-brew ansible14
-
-tap rcmdnk/file
-brew brew-file
-
-tap argon/mas
-brew mas
-
-# Other Homebrew packages
+tap homebrew/core
 brew android-sdk
 brew ant
 brew apache-spark
@@ -102,9 +96,9 @@ brew coreutils
 brew ctags
 brew curl
 brew direnv
-brew docker
 brew docker-compose
 brew docker-machine
+brew docker
 brew dos2unix
 brew doxygen
 brew ec2-api-tools
@@ -158,13 +152,13 @@ brew pkg-config
 brew postgresql
 brew pstree
 brew pv
-brew pyenv
 brew pyenv-virtualenv
 brew pyenv-virtualenvwrapper
+brew pyenv
 brew python
-brew rbenv
 brew rbenv-bundler
 brew rbenv-gemset
+brew rbenv
 brew readline
 brew reattach-to-user-namespace
 brew ruby-build
@@ -181,16 +175,27 @@ brew vimpager
 brew wget
 brew xhyve
 brew xz
-brew zsh
 brew zsh-completions
 brew zsh-syntax-highlighting
+brew zsh
+
+tap homebrew/versions
+brew ansible14
+
+tap rcmdnk/file
+brew brew-file
+
+# Below applications were installed by Cask,
+# but do not have corresponding casks.
+
+#cask Uninstalling brew-cask... (4 files, 7.9K)
 
 # App Store applications
-appstore GarageBand
-appstore iMovie
-appstore iPhoto
-appstore Keynote
-appstore Microsoft Remote Desktop
-appstore Numbers
-appstore Pages
-appstore Xcode
+appstore 682658836 GarageBand
+appstore 409183694 Keynote
+appstore 715768417 Microsoft Remote Desktop
+appstore 409203825 Numbers
+appstore 409201541 Pages
+appstore 497799835 Xcode
+appstore 408981434 iMovie
+appstore 408981381 iPhoto
