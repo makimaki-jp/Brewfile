@@ -10,7 +10,6 @@ cask appcleaner
 cask atom
 cask betterzipql
 cask dash
-cask dbvisualizer
 cask epubquicklook
 cask filezilla
 cask flash
@@ -19,7 +18,6 @@ cask github-desktop
 cask google-chrome
 cask google-japanese-ime
 cask intel-haxm
-cask intellij-idea
 cask iterm2
 cask java
 cask karabiner
@@ -70,7 +68,6 @@ cask font-koruri
 ## caskroom/versions
 tap caskroom/versions
 cask firefox-ja
-cask intellij-idea14
 cask java7
 cask macvim-kaoriya
 cask vivaldi-snapshot
