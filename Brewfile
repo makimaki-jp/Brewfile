@@ -5,7 +5,6 @@ tap argon/mas
 brew mas
 
 tap caskroom/cask
-brew brew-cask
 cask 0xed
 cask animated-gif-quicklook
 cask appcleaner
@@ -26,6 +25,7 @@ cask java
 cask karabiner
 cask kdiff3
 cask kindle
+cask licecap
 cask macdown
 cask mou
 cask openemu
@@ -190,11 +190,6 @@ brew ansible14
 
 tap rcmdnk/file
 brew brew-file
-
-# Below applications were installed by Cask,
-# but do not have corresponding casks.
-
-#cask Uninstalling brew-cask... (4 files, 7.9K)
 
 # App Store applications
 appstore 682658836 GarageBand
