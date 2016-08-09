@@ -11,6 +11,7 @@ cask appcleaner
 cask atom
 cask betterzipql
 cask dash
+cask docker
 cask epubquicklook
 cask filezilla
 cask flash
@@ -72,6 +73,7 @@ tap caskroom/versions
 cask firefox-ja
 cask java7
 cask macvim-kaoriya
+cask pycharm-ce
 cask vivaldi-snapshot
 
 tap homebrew/boneyard
@@ -96,10 +98,6 @@ brew coreutils
 brew ctags
 brew curl
 brew direnv
-brew docker-compose
-brew docker-machine-driver-xhyve
-brew docker-machine
-brew docker
 brew dos2unix
 brew doxygen
 brew ec2-api-tools
@@ -138,7 +136,10 @@ brew lua
 brew luajit
 brew lzo
 brew maven
+brew mecab-ipadic
+brew mecab
 brew mercurial
+brew mono
 brew multitail
 brew neon
 brew nkf
@@ -174,7 +175,9 @@ brew sqlite
 brew subversion
 brew thrift
 brew tig
+brew tinysvm
 brew tmux
+brew tree
 brew typesafe-activator
 brew unar
 brew vimpager
@@ -186,10 +189,12 @@ brew zsh-syntax-highlighting
 brew zsh
 
 tap homebrew/versions
-brew ansible14
 
 tap rcmdnk/file
 brew brew-file
+
+# Other Homebrew packages
+brew ansible14
 
 # App Store applications
 appstore 682658836 GarageBand
